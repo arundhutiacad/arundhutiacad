@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NxOr1FpQ3HyFPSBIXwyeuw1sV97BCWUs/view?usp=drive_link](https://drive.google.com/file/d/1NxOr1FpQ3HyFPSBIXwyeuw1sV97BCWUs/view?usp=drive_link)
 
-- ⚡ Fun fact **“Hi, I’m Arundhuti. I make jokes when I’m uncomfortable.”**
+- ⚡ Fun fact **“I make jokes when I’m uncomfortable.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
