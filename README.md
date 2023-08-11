@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Arundhuti Chakraborty</h1>
 <h3 align="center">Budding Data Scientist| Statistician | AI and ML Enthusiast</h3>
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/372y.gif")
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/372y.gif">
 
 - 🌱 I’m currently learning **NLP, Computer Vision etc.**
 
