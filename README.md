@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arundhuti Chakraborty</h1>
+<h1 align="center">Hi! I'm Arundhuti Chakraborty</h1>
 <h3 align="center">Budding Data Scientist| Statistician | AI and ML Enthusiast</h3>
 
 - 🌱 I’m currently learning **NLP, Computer Vision etc.**
