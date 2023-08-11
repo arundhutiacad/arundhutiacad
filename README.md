@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm Arundhuti Chakraborty</h1>
 <h3 align="center">Budding Data Scientist| Statistician | AI and ML Enthusiast</h3>
+(img align="right" alt="Coding" width="400" src="https://i.gifer.com/372y.gif")
 
 - 🌱 I’m currently learning **NLP, Computer Vision etc.**
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **arundhuti.acad@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NxOr1FpQ3HyFPSBIXwyeuw1sV97BCWUs/view?usp=drive_link](https://drive.google.com/file/d/1NxOr1FpQ3HyFPSBIXwyeuw1sV97BCWUs/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1NxOr1FpQ3HyFPSBIXwyeuw1sV97BCWUs/view?usp=drive_link)
 
 - ⚡ Fun fact **“I make jokes when I’m uncomfortable.”**
 
