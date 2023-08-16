@@ -1,4 +1,5 @@
 <h1 align="center">Hi! I'm Arundhuti Chakraborty</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=07F7A8&width=435&lines=%22Transforming+Data+into+Knowledge+%7C+Data+Scientist+and+Statistician%22)](https://git.io/typing-svg)
 <h3 align="center">Budding Data Scientist| Statistician | AI and ML Enthusiast</h3>
 <div align="right">
   <img src="https://i.gifer.com/372y.gif" alt="Exchange Rate Chart">
