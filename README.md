@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arundhuti.acad@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1NxOr1FpQ3HyFPSBIXwyeuw1sV97BCWUs/view?usp=drive_link)
+- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1NxOr1FpQ3HyFPSBIXwyeuw1sV97BCWUs/view?usp=drive_link)
 
 - ⚡ Fun fact **“I make jokes when I’m uncomfortable.”**
 
