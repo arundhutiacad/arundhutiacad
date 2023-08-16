@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Arundhuti Chakraborty</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=07F7A8&width=435&lines=%22Transforming+Data+into+Knowledge+%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=07F7A8&center=true&vCenter=true&width=435&lines=%22Transforming+Data+into+Knowledge+%22" alt="Typing SVG" /></a>
 
 <h3 align="center">Budding Data Scientist| Statistician | AI and ML Enthusiast</h3>
 <div align="right">
