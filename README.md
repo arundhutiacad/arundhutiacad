@@ -7,11 +7,11 @@
   <img src="https://i.gifer.com/372y.gif" alt="Exchange Rate Chart">
 </div>
 
-- 🌱 I’m currently learning **NLP, Computer Vision etc.**
+- 🌱 I’m currently learning **GEN AI**
 
 - 📝 I regularly write articles on [https://medium.com/@arundhuti.acad](https://medium.com/@arundhuti.acad)
 
-- 💬 Ask me about **Statistical Modelling, Mathematics, AI and ML.**
+- 💬 Ask me about **Statistical Modelling, Mathematics, AI and ML, NLP, Computer Vision etc**
 
 - 📫 How to reach me **arundhuti.acad@gmail.com**
 
